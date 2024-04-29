@@ -1,0 +1,15 @@
+{
+  "name": "hyperliquid-lb",
+  "module": "src/index.ts",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "bignumber": "^1.1.0",
+    "bignumber.js": "^9.1.2"
+  }
+}
